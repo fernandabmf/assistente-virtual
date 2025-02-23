@@ -1,0 +1,7 @@
+openai-whisper
+nltk
+transformers
+torch
+torchaudio
+pyaudio
+

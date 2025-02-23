@@ -1,0 +1,22 @@
+{
+    "comandos": {
+        "musica": {
+            "frase": "ligar música",
+            "acao_ligar": "Música ambiente ligada.",
+            "acao_desligar": "Música ambiente desligada."
+        },
+        "leds": {
+            "frase": "ligar LEDs",
+            "acao_ligar": "LEDs decorativos ligados.",
+            "acao_desligar": "LEDs decorativos desligados."
+        },
+        "cds": {
+            "frase": "onde estão os cds",
+            "acao": "Os CDs estão na prateleira 3."
+        },
+        "discos_vinil": {
+            "frase": "onde estão os discos de vinil",
+            "acao": "Os discos de vinil estão na prateleira 1."
+        }
+    }
+}
